@@ -23,7 +23,9 @@ Feel Free To Visit My Official Portfolio Which Contains More Information About M
 * **Next Js**
 * **Tailwind**
 * **React Query**
+* **WebSocket**
 * **Zustand**
+* **Axios**
 
 
 ## :white_check_mark: Latest Projects
