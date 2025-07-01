@@ -4,7 +4,7 @@
 # Hi there! My name is Amir Mahdi (AMKZ)
 
 
-**I am a front-end developer with over 4 years of experience**. I specialize in using Javascript, Typescript, Reactjs, and Next Js to create stunning web applications. Throughout my career, I have developed numerous industrial projects that have helped me gain a deeper understanding of the industry's nuances.
+**I am a full-stack developer with over 4 years of experience**. I specialize in using Javascript, Typescript, Reactjs, and Next Js to create stunning web applications. Throughout my career, I have developed numerous industrial projects that have helped me gain a deeper understanding of the industry's nuances.
 
 One thing that sets me apart from others is my eye for design. I believe that a well-designed website not only looks great but also functions smoothly. I always strive to create user-friendly interfaces that make navigating through the website a breeze.
 
@@ -19,6 +19,7 @@ Feel Free To Visit My Official Portfolio Which Contains More Information About M
 
 * **TypeScript**
 * **JavaScript**
+* **Node Js**
 * **React Js**
 * **Next Js**
 * **Tailwind**
@@ -31,6 +32,7 @@ Feel Free To Visit My Official Portfolio Which Contains More Information About M
 ## :white_check_mark: Latest Projects
 
 
+* **Xigzag** : Game And Entertainment  2025 (View Online  : https://xigzag.com/ )
 * **Nahalyab** : Agriculture Products Marketplace  2025 (View Online  : https://nahalyab.com/ )
 * **Visa Spfly** : Visa Automation Web App  2025 (View Online  : https://auto.flysepehr.com/ )
 * **Nilimoon Management** : Online Shop Mangement 2025 (View Online : https://overlord.nilimoon.co/)
