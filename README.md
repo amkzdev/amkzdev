@@ -4,7 +4,7 @@
 # Hi there! My name is Amir Mahdi (AMKZ)
 
 
-**I am a full-stack developer with over 4 years of experience**. I specialize in using Javascript, Typescript, Reactjs, and Next Js to create stunning web applications. Throughout my career, I have developed numerous industrial projects that have helped me gain a deeper understanding of the industry's nuances.
+**I am a Front End developer with over 4 years of experience**. I specialize in using Javascript, Typescript, Reactjs, and Next Js to create stunning web applications. Throughout my career, I have developed numerous industrial projects that have helped me gain a deeper understanding of the industry's nuances.
 
 One thing that sets me apart from others is my eye for design. I believe that a well-designed website not only looks great but also functions smoothly. I always strive to create user-friendly interfaces that make navigating through the website a breeze.
 
