@@ -23,10 +23,12 @@ Feel Free To Visit My Official Portfolio Which Contains More Information About M
 * **React Js**
 * **Next Js**
 * **Tailwind**
+* **Material UI**
 * **React Query**
 * **WebSocket**
 * **Zustand**
 * **Axios**
+* **Node Js**
 
 
 ## :white_check_mark: Latest Projects
