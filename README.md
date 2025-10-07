@@ -9,7 +9,7 @@ Welcome to my profile! I am a dedicated Front End Developer with over four years
 
 ## :globe_with_meridians: My Portfolio
 
-Feel free to explore my official portfolio, where you can find more detailed information about my projects and career:  :  https://amkz.dev
+Feel free to explore my official portfolio, where you can find more detailed information about my projects and career: https://amkz.dev
 
 ## 🛠️ My Skills
 
