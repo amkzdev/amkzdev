@@ -1,34 +1,44 @@
 
 
 
-# Hi there! My name is Amir Mahdi (AMKZ)
+# 👋 Hello! I'm Amir Mahdi (AMKZ)
 
+**Frontend Developer | 4+ Years of Experience**
 
-**I am a Front End developer with over 4 years of experience**. I specialize in using Javascript, Typescript, Reactjs, and Next Js to create stunning web applications. Throughout my career, I have developed numerous industrial projects that have helped me gain a deeper understanding of the industry's nuances.
-
-One thing that sets me apart from others is my eye for design. I believe that a well-designed website not only looks great but also functions smoothly. I always strive to create user-friendly interfaces that make navigating through the website a breeze.
-
-Thank you for taking the time to read my about me! If you have any questions or would like to collaborate on a project, feel free to reach out to me.
-
+Welcome to my profile! I am a dedicated Front End Developer with over four years of hands-on experience specializing in JavaScript, TypeScript, React.js, and Next.js. I have a passion for building visually appealing and functional web applications that enhance the user experience. Through my journey, I have successfully completed numerous industrial projects that have deepened my understanding of web development nuances and best practices.
 
 ## :globe_with_meridians: My Portfolio
 
-Feel Free To Visit My Official Portfolio Which Contains More Information About Me and My Career On https://amkz.dev
+Feel free to explore my official portfolio, where you can find more detailed information about my projects and career:  :  https://amkz.dev
 
-## :hammer_and_wrench: My Skills
+## 🛠️ My Skills
 
-* **TypeScript**
+ **Languages & Frameworks**:
 * **JavaScript**
-* **Node Js**
-* **React Js**
+* **TypeScript**
 * **Next Js**
-* **Tailwind**
+* **React Js**
+* **Node Js (Nest JS)**
+
+**Styling**:
+
+* **Tailwind CSS**
+* **Shadcn**
 * **Material UI**
+
+**State Management**:
+* **Zustand**
+* **Redux**
+* **Context**
+
+**APIs**:
 * **React Query**
 * **WebSocket**
-* **Zustand**
 * **Axios**
-* **Node Js**
+
+**Testing And Crawling**
+* **Selenium**
+
 
 
 ## :white_check_mark: Latest Projects
