@@ -1,7 +1,7 @@
 
 
 
-# 👋 Hello! I'm Amir Mahdi (AMKZ)
+# 👋 Hello! I'm Amir Mahdi Keshan Zare (AMKZ)
 
 **Frontend Developer | 4+ Years of Experience**
 
