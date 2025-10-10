@@ -13,31 +13,15 @@ Feel free to explore my official portfolio, where you can find more detailed inf
 
 ## 🛠️ My Skills
 
- **Languages & Frameworks**:
-* **JavaScript**
-* **TypeScript**
-* **Next Js**
-* **React Js**
-* **Node Js (Nest JS)**
+ ⛏️ **Languages & Frameworks**:   **``TypeScript``** , **``JavaScript``** ,   **``Next Js``** ,  **``React Js``** ,  **``Node Js (Nest JS)``**
 
-**Styling**:
+🎨 **Styling**: **``Tailwind CSS``** , **``Shadcn``** ,  **`` Material UI``**
 
-* **Tailwind CSS**
-* **Shadcn**
-* **Material UI**
+🛠 **State Management**: , **``Zustand``** , **``Redux``** , **``Context``**
 
-**State Management**:
-* **Zustand**
-* **Redux**
-* **Context**
+📡 **APIs**: **``React Query``** , **``WebSocket``**  , **``Axios``**
 
-**APIs**:
-* **React Query**
-* **WebSocket**
-* **Axios**
-
-**Testing And Crawling**
-* **Selenium**
+⚖️ **Testing And Crawling** : **``Selenium``**
 
 
 
