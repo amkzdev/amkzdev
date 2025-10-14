@@ -15,7 +15,7 @@ Feel free to explore my official portfolio, where you can find more detailed inf
 
  ⛏️ **Languages & Frameworks**:   **``TypeScript``** , **``JavaScript``** ,   **``Next Js``** ,  **``React Js``** ,  **``Node Js (Nest JS)``**
 
-🎨 **Styling**: **``Tailwind CSS``** , **``Shadcn``** ,  **`` Material UI``**
+🎨 **Styling**: **``Tailwind CSS``** , **``Shadcn``** ,  **`` Material UI``** ,  **``CSS``**  ,  **``SASS``** ,**`` JSS``** 
 
 🛠 **State Management**: , **``Zustand``** , **``Redux``** , **``Context``**
 
